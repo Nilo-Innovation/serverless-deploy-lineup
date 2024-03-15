@@ -1,0 +1,5 @@
+name: serverless-deploy-aws
+description: "This action provides kubectl for Github Actions."
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
